@@ -222,7 +222,3 @@ All functions include error handling with logging. Check logs for:
 - [ ] Caching with Redis
 - [ ] API endpoints for data access
 - [ ] More comprehensive testing suite
-
-## License
-
-Proprietary - Data Engineering Team
