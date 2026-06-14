@@ -1,6 +1,6 @@
-# UFC Stats Scraper 2.0
+# UFC Stats Scraper
 
-A production-ready web scraper for UFC fighter statistics, built with clean architecture principles, type hints, and comprehensive error handling.
+A web scraper for UFC fighter statistics, built with clean architecture principles, type hints, and comprehensive error handling.
 
 ## Features
 
